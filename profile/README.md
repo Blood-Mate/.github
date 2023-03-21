@@ -2,6 +2,9 @@
 
 Bloodmate is an app that connects blood donors and recipients in a fast and easy way. Whether you need blood for yourself or someone you care about, you can use Bloodmate to find willing donors nearby who match your blood type. You can also donate blood to those who need it and save lives. Join Bloodmate today and be part of a community that cares.🩸  
 
+## Demo video
+TBD
+
 ## 1. Introduction
 
 Bloodmate is more than just a blood donation app. It is a community of people who care about each other and share their stories and needs. With Bloodmate, you can see who needs blood urgently and for what reason, and you can offer your help with a few taps. You can also request blood from other donors in your area if you or someone you love needs it. Bloodmate makes blood donation more personal, meaningful and rewarding. 
@@ -45,16 +48,7 @@ Bloodmate is more than just a blood donation app. It is a community of people wh
 
 - [Blood donation awards](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=able-com&logNo=221227317173) Related to blood donation award
 
-## 3. Development Environment
-TBD
-
-## 4. Project Architecure
-TBD
-
-## 5. Demos!
-TBD
-
-## 👥 Contributors
+## Contributors
 
 | [우귀정](https://github.com/woog2roid)                            | [고성민](https://github.com/ko-success)                            | [한지상](https://github.com/ONground-Korea)                            | [최윤지](https://github.com/yunz0926)                            |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------- |
