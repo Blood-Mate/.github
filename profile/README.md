@@ -13,20 +13,27 @@ Bloodmate is more than just a blood donation app. It is a community of people wh
 ### 2.1 Designated blood donation   
 
 - You can post information such as the blood recipient, the type of blood needed, the reason, and the designated blood donation details.
-- You can see the list of designated blood donations from your nearby neighbors.
-    - If you enter the hospital information where your neighbor patient is admitted, you can visit the hospital directly and donate blood without going through a blood bank (this can help solve urgent situations that are related to life more quickly).
-- You can send a thank-you message to the person who received your blood donation, like in Karrot Market reviews (you can also see this in your awards or profile page).
+- You can see the list of designated blood donations from your nearby neighbors filtered by distance, blood type and blood donation type.
+    - If the hospital information where your neighbor patient is admitted is entered, you can visit the hospital directly and donate blood without going through a blood bank (this can help solve urgent situations that are related to life more quickly).
+- The person who received your blood donation can send a thank-you message to you, like in Karrot Market reviews (you can also see this in your awards or profile page).
 
 - You can make it possible for people who have rare types of blood (Rh-) to get a transfusion when they get injured worldwide.
 
 ### 2.2 Acquaintance blood donation
-- You can automatically register your acquaintances (who are signed up on the app) by phone number or following.
+- You can automatically register your acquaintances (regardless of whether they registered for the app or not) by phone number.
 
 - You can send or receive blood donation requests to your acquaintances when you need blood urgently.
 - You can also send them to indirect acquaintances, not just direct ones.
     - Example: ‘Han Ji-sang, an acquaintance of your acquaintance Choi Yoon-ji, needs blood urgently.’
 
-### 2.3 Community
+### 2.3 Guardian
+- You can add up to 4 of your acquaintances who registered for the app as your guardians.
+- If you're too damaged to use the app for requesting blood donation, your guardians can reqeust blood donation to your acquaintances instead.
+- Likewise, you can be a guardian of someone at request.
+
+## 3. Futer Development Plans
+
+### 3.1 Community
 1) Blood donation community
 
     - Create a community that can help people who are new to blood transfusion or hospital-related experiences.
@@ -42,11 +49,18 @@ Bloodmate is more than just a blood donation app. It is a community of people wh
 
     - Allow people to freely choose topics and create community rooms and communicate with others.
 
-### 2.4 Blood donation awards
+### 3.2 Blood donation awards
 
 - A plaque that is sent to people who have donated blood once, three times, etc. to let them know that their act was very helpful and important.
+- Through cooperation with the government, blood donation certificates and blood donation records can be automatically registered, and blood donation certificates can be donated for those who need blood transfusions to reduce their blood transfusion charges.
 
-- [Blood donation awards](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=able-com&logNo=221227317173) Related to blood donation award
+- [Blood donation awards](https://www.blood.co.uk/the-donation-process/recognising-donors/) Related to blood donation award
+- [Blood donation certificate](https://www.bloodinfo.net/knrcbs/cm/cntnts/cntntsView.do?mi=1142&cntntsId=1022) Korean blood donation certificates
+
+## Project Repository
+- #### [Frontend](https://github.com/Blood-Mate/blood-mate-app)
+- #### [Backend](https://github.com/Blood-Mate/blood-mate-server)
+- #### [AI](https://github.com/Blood-Mate/blood-mate-ai)
 
 ## Contributors
 
