@@ -31,7 +31,7 @@ Bloodmate is more than just a blood donation app. It is a community of people wh
 - If you're too damaged to use the app for requesting blood donation, your guardians can reqeust blood donation to your acquaintances instead.
 - Likewise, you can be a guardian of someone at request.
 
-## 3. Futer Development Plans
+## 3. Future Development Plans
 
 ### 3.1 Community
 1) Blood donation community
