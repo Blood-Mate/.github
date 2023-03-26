@@ -10,10 +10,10 @@ TBD
 Bloodmate is more than just a blood donation app. It is a community of people who care about each other and share their stories and needs. With Bloodmate, you can see who needs blood urgently and for what reason, and you can offer your help with a few taps. You can also request blood from other donors in your area if you or someone you love needs it. Bloodmate makes blood donation more personal, meaningful and rewarding. 
 
 ## 2. Key Features
-### 2.1 Designated blood donation   
+### 2.1 Direct blood donation   
 
-- You can post information such as the blood recipient, the type of blood needed, the reason, and the designated blood donation details.
-- You can see the list of designated blood donations from your nearby neighbors filtered by distance, blood type and blood donation type.
+- You can post information such as the blood recipient, the type of blood needed, the reason, and the direct blood donation details.
+- You can see the list of direct blood donations from your nearby neighbors filtered by distance, blood type and blood donation type.
     - If the hospital information where your neighbor patient is admitted is entered, you can visit the hospital directly and donate blood without going through a blood bank (this can help solve urgent situations that are related to life more quickly).
 - The person who received your blood donation can send a thank-you message to you, like in Karrot Market reviews (you can also see this in your awards or profile page).
 
