@@ -2,7 +2,7 @@
 
 Bloodmate is an app that connects blood donors and recipients in a fast and easy way. Whether you need blood for yourself or someone you care about, you can use Bloodmate to find willing donors nearby who match your blood type. You can also donate blood to those who need it and save lives. Join Bloodmate today and be part of a community that cares.🩸  
 
-## Demo video
+## 0. Demo video
 TBD
 
 ## 1. Introduction
@@ -19,16 +19,16 @@ Bloodmate is more than just a blood donation app. It is a community of people wh
 
 - You can make it possible for people who have rare types of blood (Rh-) to get a transfusion when they get injured worldwide.
 
-### 2.2 Acquaintance blood donation
-- You can automatically register your acquaintances (regardless of whether they registered for the app or not) by phone number.
+### 2.2 Friend / Local blood donation
+- You can automatically register your neighbors (regardless of whether they registered for the app or not) by phone number.
 
-- You can send or receive blood donation requests to your acquaintances when you need blood urgently.
-- You can also send them to indirect acquaintances, not just direct ones.
-    - Example: ‘Han Ji-sang, an acquaintance of your acquaintance Choi Yoon-ji, needs blood urgently.’
+- You can send or receive blood donation requests to your neighbors when you need blood urgently.
+- You can also send them to indirect neighbors, not just direct ones.
+    - Example: ‘Han Ji-sang, a neighbor of your neighbors Choi Yoon-ji, needs blood urgently.’
 
 ### 2.3 Guardian
-- You can add up to 4 of your acquaintances who registered for the app as your guardians.
-- If you're too damaged to use the app for requesting blood donation, your guardians can reqeust blood donation to your acquaintances instead.
+- You can add up to 4 of your neighbors who registered for the app as your guardians.
+- If you're too damaged to use the app for requesting blood donation, your guardians can reqeust blood donation to your neighbors instead.
 - Likewise, you can be a guardian of someone at request.
 
 ## 3. Future Development Plans
@@ -57,14 +57,14 @@ Bloodmate is more than just a blood donation app. It is a community of people wh
 - [Blood donation awards](https://www.blood.co.uk/the-donation-process/recognising-donors/) Related to blood donation award
 - [Blood donation certificate](https://www.bloodinfo.net/knrcbs/cm/cntnts/cntntsView.do?mi=1142&cntntsId=1022) Korean blood donation certificates
 
-## Project Repository
-- #### [Frontend](https://github.com/Blood-Mate/blood-mate-app)
-- #### [Backend](https://github.com/Blood-Mate/blood-mate-server)
-- #### [AI](https://github.com/Blood-Mate/blood-mate-ai)
 
-## Contributors
+## 4. Contributors
 
 | [우귀정](https://github.com/woog2roid)                            | [고성민](https://github.com/ko-success)                            | [한지상](https://github.com/ONground-Korea)                            | [최윤지](https://github.com/yunz0926)                            |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | <img src="https://github.com/woog2roid.png" style="width: 350px"> | <img src="https://github.com/ko-success.png" style="width: 350px"> | <img src="https://github.com/ONground-Korea.png" style="width: 350px"> | <img src="https://github.com/yunz0926.png" style="width: 350px"> |
 
+## Project Repository
+- #### [Frontend](https://github.com/Blood-Mate/blood-mate-app)
+- #### [Backend](https://github.com/Blood-Mate/blood-mate-server)
+- #### [AI](https://github.com/Blood-Mate/blood-mate-ai)
