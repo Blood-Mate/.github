@@ -61,3 +61,4 @@ Bloodmate is more than just a blood donation app. It is a community of people wh
 - **[Frontend](https://github.com/Blood-Mate/blood-mate-app)**
 - **[Backend](https://github.com/Blood-Mate/blood-mate-server)**
 - **[AI](https://github.com/Blood-Mate/blood-mate-ai)**
+![](https://github.com/Blood-Mate/.github/blob/main/architecture.png)
