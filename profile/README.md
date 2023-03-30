@@ -36,8 +36,7 @@ Bloodmate is more than just a blood donation app. It is a community of people wh
 - Blood Mate manages blood donation history and informs donors the next possible blood donation time
 
 ### 3.3 Community
-1) Blood donation community
-
+- Blood donation community
     - Create a community that can help people who are new to blood transfusion or hospital-related experiences.
     - Enable people to exchange information and get help from each other.
     - Also, let’s form a community among the blood donors to share information and encourage each other.
