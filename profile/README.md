@@ -17,7 +17,6 @@ Bloodmate is more than just a blood donation app. It is a community of people wh
 - You can send or receive blood donation requests to your neighbors when you need blood urgently.
 - You can also send them to indirect neighbors, not just direct ones.
     - Example: ‘Han Jisang, a neighbor of your neighbors Choi Yoonji, needs blood urgently.’
-- The person who received your blood donation can send a thank-you message to you.
 - You can make it possible for people who have rare types of blood (Rh-) to get a transfusion when they get injured worldwide.
 
 ### 2.2 Guardian
