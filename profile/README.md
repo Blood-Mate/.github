@@ -4,7 +4,7 @@ Bloodmate is an app that connects blood donors and recipients in a fast and easy
 
 ## 0. Demo video
 
-![](https://github.com/Blood-Mate/.github/blob/main/thumbnail.png)
+[![](https://github.com/Blood-Mate/.github/blob/main/thumbnail.png)](https://youtu.be/50ShHK7lB4A)
 
 ## 1. Introduction
 
